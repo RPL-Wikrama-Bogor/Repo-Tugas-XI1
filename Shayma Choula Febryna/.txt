@@ -1,0 +1,4 @@
+- Link repository LKPD HTML = https://github.com/shaymach/LKPD-HTML.git
+- Link repository LKPD PHP = https://github.com/shaymach/LKPD-PHP.git
+- Link Trello = https://trello.com/invite/b/66fa4224f10782f901eae791/ATTId6be7620d5edbc45026a7442e4244e2068C113C2/project-laravel
+- Link Laravel = progres
