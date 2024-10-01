@@ -1,0 +1,4 @@
+Link LKPD JavaScript: https://github.com/AyuSekarAzzkya/LKPD-html-css-js
+Link LKPD PHP: https://github.com/AyuSekarAzzkya/LKPD-PHP
+Link Project CRUD: https://github.com/AyuSekarAzzkya/CRUD-apotek
+Link Trello: https://trello.com/b/GzQmYt3u/data-siswa
