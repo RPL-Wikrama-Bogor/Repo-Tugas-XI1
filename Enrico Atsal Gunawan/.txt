@@ -1,0 +1,5 @@
+Link LKPD 1: https://github.com/en8866/LKPD1-XI-1 (ganti 1 dengan 1-6)
+Link LKPD 2: https://github.com/en8866/LKPD2-XI-1
+Link Project CRUD Laravel:
+Link Project diluar CRUD Laravel:
+Link Trello:https://trello.com/b/VWTZBPEu
