@@ -1,4 +1,5 @@
 Link LKPD JavaScript: https://github.com/AyuSekarAzzkya/LKPD-html-css-js
 Link LKPD PHP: https://github.com/AyuSekarAzzkya/LKPD-PHP
-Link Project CRUD: https://github.com/AyuSekarAzzkya/CRUD-apotek
-Link Trello: https://trello.com/b/GzQmYt3u/data-siswa
+Link Project CRUD Apotek: https://github.com/AyuSekarAzzkya/CRUD-apotek
+Link Trello: https://trello.com/invite/b/66fa0d165290eade7c353a9e/ATTI1a0b8f56fdbb5d1c1be125eac068383aE9A6B2A0/data-siswa
+Link Project CRUD Sendiri : https://github.com/AyuSekarAzzkya/lr-data-siswa
