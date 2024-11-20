@@ -1,4 +1,4 @@
 LKPD speedtest HTML&PHP: https://github.com/dinfayad/LKPD_hmtl-php.git
-Link Project CRUD Laravel: 
-Link Project diluar CRUD Laravel:
-Link Trello:
+Link Project CRUD Laravel: https://github.com/dinfayad/apotekAPP
+Link Project diluar CRUD Laravel:https://github.com/dinfayad/absengds
+Link Trello: https://trello.com/b/sGeHb1Op/absengds
