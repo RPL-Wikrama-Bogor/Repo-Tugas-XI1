@@ -4,3 +4,4 @@ Link LKPD JavaScript: https://github.com/Rasydsholih/speed-test-HTML-CSS-JS
 Link Project CRUD Laravel: https://github.com/Rasydsholih/Project-CRUD
 Link Trello: https://trello.com/invite/b/66fa0bd5c2ff246adf9e8a7f/ATTIa4ecc9edae77129dfd37e00a94f6638cAA14E7FA/namaproject
 link Trello Update: https://trello.com/invite/b/66fa0bd5c2ff246adf9e8a7f/ATTIa4ecc9edae77129dfd37e00a94f6638cAA14E7FA/kasirproject
+link Trello terbaru 21-10-24: https://trello.com/invite/b/6716091ba0d210acec66bc51/ATTI7ff2b06bb5698bf7e88e2ce8e8d8954066148A6F/warungproject
